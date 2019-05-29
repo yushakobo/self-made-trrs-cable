@@ -7,7 +7,7 @@
  - ケーブルスリーブ
  - 熱収縮チューブ * 2
 
-![kit_contains](images/IMG_2267.jpg)
+![kit_contains](images/IMG_2267.jpg)
 
 ## 必要な道具
  - はんだごて
@@ -55,7 +55,7 @@
 
 	*このとき、金属ハウジング部分のねじ切りが外側から見えることを確認します
 
-![check_direction](images/IMg_2404.jpg)
+![check_direction](images/IMG_2404.jpg)
 
 ## 8: 手順3の留めものを取り外し、パラコード/ケーブルスリーブを適当な長さに切りそろます
 
@@ -75,7 +75,7 @@
 
 ![make_sure_inserted](images/IMG_2405.jpg)
 
-## 12: 4芯ケーブルのそれぞれの芯線をはんだ付けします	
+## 12: 4芯ケーブルのそれぞれの芯線をはんだ付けします
 
 ![soldering](images/IMG_2406.jpg)
 
