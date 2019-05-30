@@ -7,7 +7,7 @@
  - ケーブルスリーブ
  - 熱収縮チューブ * 2
 
-![kit_contains](images/IMG_2267.jpg)
+![kit_contains](images/IMG_2267.jpg)
 
 ## 必要な道具
  - はんだごて
@@ -33,7 +33,7 @@
 
 ![insert_core_cable](images/IMG_2271.jpg)
 
-## 3: パラコードと4芯ケーブルの先端がバラバラにならないように留めます
+## 3: パラコードと4芯ケーブルの先端がバラバラにならないようにマスキングテープで留めます
 
 ![cover_paracord](images/IMG_2103.jpg)
 
@@ -41,7 +41,7 @@
 
 ![insert_into_sleeve](images/IMG_2106.jpg)
 
-## 5: ケーブルスリーブが長くバラバラにならないように留めます
+## 5: ケーブルスリーブもバラけやすいのでこちらもマスキングテープで留めます
 
 ![cover_sleeve](images/IMG_2107.jpg)
 
@@ -55,7 +55,7 @@
 
 	*このとき、金属ハウジング部分のねじ切りが外側から見えることを確認します
 
-![check_direction](images/IMg_2404.jpg)
+![check_direction](images/IMG_2404.jpg)
 
 ## 8: 手順3の留めものを取り外し、パラコード/ケーブルスリーブを適当な長さに切りそろます
 
@@ -75,7 +75,7 @@
 
 ![make_sure_inserted](images/IMG_2405.jpg)
 
-## 12: 4芯ケーブルのそれぞれの芯線をはんだ付けします	
+## 12: 4芯ケーブルのそれぞれの芯線をはんだ付けします
 
 ![soldering](images/IMG_2406.jpg)
 
@@ -99,6 +99,6 @@
 
 ![check_connection](images/IMG_2411.jpg)
 
-## 15: ヒートガンなどで熱収縮チューブを収縮させて、完成です
+## 15: ヒートガンなどで熱収縮チューブを収縮させ、金属ハウジングを締めて完成です
 
 ![complete](images/IMG_2413.jpg)
