@@ -1,5 +1,7 @@
 # 自作TRRSケーブルの作り方
 
+[English version](README_en.md)
+
 ## キット内容
  - TRRSプラグ * 2
  - 4芯ケーブル
